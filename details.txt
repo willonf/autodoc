@@ -1,0 +1,3 @@
+Project: SaleSys
+Title: SaleSys - Documentação de dados
+Description: O presente documento visa documentar a estrutura do banco de dados do sistema SaleSys.

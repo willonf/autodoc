@@ -1,0 +1,1 @@
+django_admin_log,django_content_type,django_migrations,django_session,guardian_groupobjectpermission,guardian_userobjectpermission
